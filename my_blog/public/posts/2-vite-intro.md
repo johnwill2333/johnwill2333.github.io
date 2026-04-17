@@ -1,10 +1,5 @@
 
-👉 注意最后一行的三个反引号 **必须有**，用来结束代码块。
 
----
-
-### ✅ `public/posts/2-vite-intro.md`
-```markdown
 ---
 id: 2
 title: 初识 Vite
